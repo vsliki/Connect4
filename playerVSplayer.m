@@ -2,7 +2,7 @@ function M = playerVSplayer(M)
 %INPUT: Board M
 %OUTPUT: Board of the game.
 
-%Function that simulates a game between to human players. 
+%Function that simulates a game between two human players. 
 
 win=0; %Initialization
 
